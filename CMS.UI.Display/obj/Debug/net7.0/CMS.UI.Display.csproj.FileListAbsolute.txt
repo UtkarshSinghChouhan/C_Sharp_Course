@@ -1,0 +1,12 @@
+C:\C# Projects\CMS.UI.Display\bin\Debug\net7.0\CMS.UI.Display.deps.json
+C:\C# Projects\CMS.UI.Display\bin\Debug\net7.0\CMS.UI.Display.dll
+C:\C# Projects\CMS.UI.Display\bin\Debug\net7.0\CMS.UI.Display.pdb
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.csproj.AssemblyReference.cache
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.AssemblyInfoInputs.cache
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.AssemblyInfo.cs
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.csproj.CoreCompileInputs.cache
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.dll
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\refint\CMS.UI.Display.dll
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\CMS.UI.Display.pdb
+C:\C# Projects\CMS.UI.Display\obj\Debug\net7.0\ref\CMS.UI.Display.dll
